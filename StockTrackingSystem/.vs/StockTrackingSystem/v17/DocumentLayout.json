@@ -1,16 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Hamza\\source\\repos\\StockTrackingSystem\\StockTrackingSystem\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{F1FD92BF-7F1F-41AE-B62D-D83AC415B983}|StockTrackingAPI\\StockTrackingAPI.csproj|c:\\users\\hamza\\source\\repos\\stocktrackingsystem\\stocktrackingsystem\\stocktrackingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1FD92BF-7F1F-41AE-B62D-D83AC415B983}|StockTrackingAPI\\StockTrackingAPI.csproj|solutionrelative:stocktrackingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FCE8B43-CECF-4947-997C-E974E8ECB45C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\hamza\\source\\repos\\stocktrackingsystem\\stocktrackingsystem\\businesslayer\\concrete\\stockmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FCE8B43-CECF-4947-997C-E974E8ECB45C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\concrete\\stockmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\AL\u0130\\Source\\Repos\\StockTrackingSystem\\StockTrackingSystem\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,8 +9,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": -1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -31,40 +34,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\StockTrackingSystem\\StockTrackingSystem\\StockTrackingAPI\\Program.cs",
-              "RelativeDocumentMoniker": "StockTrackingAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\StockTrackingSystem\\StockTrackingSystem\\StockTrackingAPI\\Program.cs",
-              "RelativeToolTip": "StockTrackingAPI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T10:10:44.375Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StockManager.cs",
-              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\StockTrackingSystem\\StockTrackingSystem\\BusinessLayer\\Concrete\\StockManager.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\Concrete\\StockManager.cs",
-              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\StockTrackingSystem\\StockTrackingSystem\\BusinessLayer\\Concrete\\StockManager.cs",
-              "RelativeToolTip": "BusinessLayer\\Concrete\\StockManager.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T10:10:15.995Z",
-              "EditorCaption": ""
             }
           ]
         }
