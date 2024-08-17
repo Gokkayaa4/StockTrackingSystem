@@ -3,6 +3,7 @@ using BusinessLayer.Concrete;
 using BusinessLayer.FluentValidatior;
 using DataAccessLayer.Abstract;
 using DataAccessLayer.Concrete.EntityFramework;
+using EntityLayer.Concrete;
 using FluentValidation;
 
 var builder = WebApplication.CreateBuilder(args);

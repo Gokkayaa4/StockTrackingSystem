@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\AL\u0130\\Source\\Repos\\StockTrackingSystem\\StockTrackingSystem\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\AL\u0130\\Desktop\\Staj Proje Stok Takip\\Yeni klas\u00F6r\\StockTrackingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FD92BF-7F1F-41AE-B62D-D83AC415B983}|StockTrackingAPI\\StockTrackingAPI.csproj|c:\\users\\al\u0130\\desktop\\staj proje stok takip\\yeni klas\u00F6r\\stocktrackingsystem\\stocktrackingapi\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FD92BF-7F1F-41AE-B62D-D83AC415B983}|StockTrackingAPI\\StockTrackingAPI.csproj|solutionrelative:stocktrackingapi\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StockController.cs",
+              "DocumentMoniker": "C:\\Users\\AL\u0130\\Desktop\\Staj Proje Stok Takip\\Yeni klas\u00F6r\\StockTrackingSystem\\StockTrackingAPI\\Controllers\\StockController.cs",
+              "RelativeDocumentMoniker": "StockTrackingAPI\\Controllers\\StockController.cs",
+              "ToolTip": "C:\\Users\\AL\u0130\\Desktop\\Staj Proje Stok Takip\\Yeni klas\u00F6r\\StockTrackingSystem\\StockTrackingAPI\\Controllers\\StockController.cs",
+              "RelativeToolTip": "StockTrackingAPI\\Controllers\\StockController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T13:01:37.794Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
