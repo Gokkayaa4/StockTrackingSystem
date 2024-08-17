@@ -15,3 +15,23 @@ C:\Users\ALİ\Desktop\Staj Proje Stok Takip\StockTrackingSystem\DataAccessLayer\
 C:\Users\ALİ\Desktop\Staj Proje Stok Takip\StockTrackingSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
 C:\Users\ALİ\Desktop\Staj Proje Stok Takip\StockTrackingSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
 C:\Users\ALİ\Desktop\Staj Proje Stok Takip\StockTrackingSystem\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+C:\Users\Hamza\Source\Repos\StockTrackingSystem\StockTrackingSystem\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\Hamza\Source\Repos\StockTrackingSystem\StockTrackingSystem\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+C:\Users\Hamza\Source\Repos\StockTrackingSystem\StockTrackingSystem\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\Hamza\Source\Repos\StockTrackingSystem\StockTrackingSystem\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\Hamza\Source\Repos\StockTrackingSystem\StockTrackingSystem\DataAccessLayer\bin\Debug\net8.0\Core.dll
+C:\Users\Hamza\Source\Repos\StockTrackingSystem\StockTrackingSystem\DataAccessLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\Hamza\Source\Repos\StockTrackingSystem\StockTrackingSystem\DataAccessLayer\bin\Debug\net8.0\Core.pdb
+C:\Users\Hamza\Source\Repos\StockTrackingSystem\StockTrackingSystem\DataAccessLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\Hamza\Source\Repos\StockTrackingSystem\StockTrackingSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Hamza\Source\Repos\StockTrackingSystem\StockTrackingSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamza\Source\Repos\StockTrackingSystem\StockTrackingSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Hamza\Source\Repos\StockTrackingSystem\StockTrackingSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Hamza\Source\Repos\StockTrackingSystem\StockTrackingSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\Source\Repos\StockTrackingSystem\StockTrackingSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.sourcelink.json
+C:\Users\Hamza\Source\Repos\StockTrackingSystem\StockTrackingSystem\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+C:\Users\Hamza\Source\Repos\StockTrackingSystem\StockTrackingSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\Hamza\Source\Repos\StockTrackingSystem\StockTrackingSystem\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\Hamza\Source\Repos\StockTrackingSystem\StockTrackingSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\Hamza\Source\Repos\StockTrackingSystem\StockTrackingSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\Hamza\Source\Repos\StockTrackingSystem\StockTrackingSystem\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll

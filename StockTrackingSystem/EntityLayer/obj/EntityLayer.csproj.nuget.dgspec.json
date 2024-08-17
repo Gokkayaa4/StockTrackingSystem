@@ -1,20 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ALİ\\Desktop\\Staj Proje Stok Takip\\StockTrackingSystem\\EntityLayer\\EntityLayer.csproj": {}
+    "C:\\Users\\Hamza\\Source\\Repos\\StockTrackingSystem\\StockTrackingSystem\\EntityLayer\\EntityLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ALİ\\Desktop\\Staj Proje Stok Takip\\StockTrackingSystem\\Core\\Core.csproj": {
+    "C:\\Users\\Hamza\\Source\\Repos\\StockTrackingSystem\\StockTrackingSystem\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ALİ\\Desktop\\Staj Proje Stok Takip\\StockTrackingSystem\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\Hamza\\Source\\Repos\\StockTrackingSystem\\StockTrackingSystem\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\ALİ\\Desktop\\Staj Proje Stok Takip\\StockTrackingSystem\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\ALİ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ALİ\\Desktop\\Staj Proje Stok Takip\\StockTrackingSystem\\Core\\obj\\",
+        "projectPath": "C:\\Users\\Hamza\\Source\\Repos\\StockTrackingSystem\\StockTrackingSystem\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\Hamza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hamza\\Source\\Repos\\StockTrackingSystem\\StockTrackingSystem\\Core\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ALİ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hamza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +28,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -66,21 +74,27 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ALİ\\Desktop\\Staj Proje Stok Takip\\StockTrackingSystem\\EntityLayer\\EntityLayer.csproj": {
+    "C:\\Users\\Hamza\\Source\\Repos\\StockTrackingSystem\\StockTrackingSystem\\EntityLayer\\EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ALİ\\Desktop\\Staj Proje Stok Takip\\StockTrackingSystem\\EntityLayer\\EntityLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Hamza\\Source\\Repos\\StockTrackingSystem\\StockTrackingSystem\\EntityLayer\\EntityLayer.csproj",
         "projectName": "EntityLayer",
-        "projectPath": "C:\\Users\\ALİ\\Desktop\\Staj Proje Stok Takip\\StockTrackingSystem\\EntityLayer\\EntityLayer.csproj",
-        "packagesPath": "C:\\Users\\ALİ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ALİ\\Desktop\\Staj Proje Stok Takip\\StockTrackingSystem\\EntityLayer\\obj\\",
+        "projectPath": "C:\\Users\\Hamza\\Source\\Repos\\StockTrackingSystem\\StockTrackingSystem\\EntityLayer\\EntityLayer.csproj",
+        "packagesPath": "C:\\Users\\Hamza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hamza\\Source\\Repos\\StockTrackingSystem\\StockTrackingSystem\\EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ALİ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hamza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -88,14 +102,16 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ALİ\\Desktop\\Staj Proje Stok Takip\\StockTrackingSystem\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\ALİ\\Desktop\\Staj Proje Stok Takip\\StockTrackingSystem\\Core\\Core.csproj"
+              "C:\\Users\\Hamza\\Source\\Repos\\StockTrackingSystem\\StockTrackingSystem\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Hamza\\Source\\Repos\\StockTrackingSystem\\StockTrackingSystem\\Core\\Core.csproj"
               }
             }
           }
@@ -130,7 +146,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
