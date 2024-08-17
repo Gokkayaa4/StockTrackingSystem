@@ -2,7 +2,6 @@ using BusinessLayer.Abstract;
 using BusinessLayer.Concrete;
 using DataAccessLayer.Abstract;
 using DataAccessLayer.Concrete.EntityFramework;
-using DataAccessLayer.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 

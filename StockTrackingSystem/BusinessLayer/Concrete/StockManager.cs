@@ -1,7 +1,5 @@
 ﻿using BusinessLayer.Abstract;
 using DataAccessLayer.Abstract;
-using DataAccessLayer.EntityFramework;
-using DataAccessLayer.Repositories;
 using EntityLayer.Concrete;
 using System;
 using System.Collections.Generic;
@@ -24,17 +22,17 @@ namespace BusinessLayer.Concrete
 
         public Stock GetById(int id)
         {
-           return _stockDal.GetById(id);
+           return _stockDal.Get(p=>p.ID == id);
         }
 
         public List<Stock> GetStocks()
         {
-            return _stockDal.GetStockAll();
+            return _stockDal.GetAll();
         }
 
         public void StockAdd(Stock stock)
         {
-            _stockDal.Insert(stock);
+            _stockDal.Add(stock);
             
         }
 
