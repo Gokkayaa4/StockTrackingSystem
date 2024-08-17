@@ -1,7 +1,9 @@
 using BusinessLayer.Abstract;
 using BusinessLayer.Concrete;
+using BusinessLayer.FluentValidatior;
 using DataAccessLayer.Abstract;
 using DataAccessLayer.Concrete.EntityFramework;
+using FluentValidation;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,6 +11,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<Context>();
 builder.Services.AddScoped<IStockDAL,EFStockRepositories>();
 builder.Services.AddScoped<IStockService,StockManager>();
+builder.Services.AddValidatorsFromAssemblyContaining<StockValidatior>();
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();

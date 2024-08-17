@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "OHwaPMgbm8rPUKH7YwAU5hLcwNybiBN2gcGX5wt5eRkeCv/dcdJYzDYM7fXdS1KDzKFGLGhN0Xz+QSMl1yy8+w==",
+  "dgSpecHash": "dA5hJLlwgu4sr4tvAgpQlwcAkkQZHVfNscSMxKhn2eDCflZUxFqvEQ6IvLOiqE5/1XL8dvz6pbu3/nzJm9xaxw==",
   "success": true,
   "projectFilePath": "C:\\Users\\ALİ\\Source\\Repos\\StockTrackingSystem\\StockTrackingSystem\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ALİ\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ALİ\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
+    "C:\\Users\\ALİ\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
+    "C:\\Users\\ALİ\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\ALİ\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\ALİ\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\ALİ\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\ALİ\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.5\\microsoft.data.sqlclient.5.1.5.nupkg.sha512",
