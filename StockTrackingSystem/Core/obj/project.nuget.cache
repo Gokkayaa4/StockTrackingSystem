@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5oljoY4e0QrqnghTQVZ2uZOZxnH4wZY30zAdpJyw4+UaYTE67b7l/eyNPejUUCX64UcAJGp4ed7qNv2WVc2fQQ==",
+  "dgSpecHash": "NfEdsYNSJiMEfBI6qou40Ld6oBvTXSB4gK81W0gjERwCej3GEcmkZvw/4EJaJeAYh2pxNpD5L4hvk7vPuD+4yw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ALİ\\Desktop\\Staj Proje Stok Takip\\Yeni klasör\\StockTrackingSystem\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Users\\ALİ\\Desktop\\Staj Proje Stok Takip\\Yeni klasör (2)\\StockTrackingSystem\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ALİ\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.8\\microsoft.entityframeworkcore.8.0.8.nupkg.sha512",
     "C:\\Users\\ALİ\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.8\\microsoft.entityframeworkcore.abstractions.8.0.8.nupkg.sha512",

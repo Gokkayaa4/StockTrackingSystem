@@ -4150,11 +4150,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ALİ\\Desktop\\Staj Proje Stok Takip\\Yeni klasör\\StockTrackingSystem\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\ALİ\\Desktop\\Staj Proje Stok Takip\\Yeni klasör (2)\\StockTrackingSystem\\DataAccessLayer\\DataAccessLayer.csproj",
       "projectName": "DataAccessLayer",
-      "projectPath": "C:\\Users\\ALİ\\Desktop\\Staj Proje Stok Takip\\Yeni klasör\\StockTrackingSystem\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectPath": "C:\\Users\\ALİ\\Desktop\\Staj Proje Stok Takip\\Yeni klasör (2)\\StockTrackingSystem\\DataAccessLayer\\DataAccessLayer.csproj",
       "packagesPath": "C:\\Users\\ALİ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ALİ\\Desktop\\Staj Proje Stok Takip\\Yeni klasör\\StockTrackingSystem\\DataAccessLayer\\obj\\",
+      "outputPath": "C:\\Users\\ALİ\\Desktop\\Staj Proje Stok Takip\\Yeni klasör (2)\\StockTrackingSystem\\DataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ALİ\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4171,11 +4171,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ALİ\\Desktop\\Staj Proje Stok Takip\\Yeni klasör\\StockTrackingSystem\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\ALİ\\Desktop\\Staj Proje Stok Takip\\Yeni klasör\\StockTrackingSystem\\Core\\Core.csproj"
+            "C:\\Users\\ALİ\\Desktop\\Staj Proje Stok Takip\\Yeni klasör (2)\\StockTrackingSystem\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\ALİ\\Desktop\\Staj Proje Stok Takip\\Yeni klasör (2)\\StockTrackingSystem\\Core\\Core.csproj"
             },
-            "C:\\Users\\ALİ\\Desktop\\Staj Proje Stok Takip\\Yeni klasör\\StockTrackingSystem\\EntityLayer\\EntityLayer.csproj": {
-              "projectPath": "C:\\Users\\ALİ\\Desktop\\Staj Proje Stok Takip\\Yeni klasör\\StockTrackingSystem\\EntityLayer\\EntityLayer.csproj"
+            "C:\\Users\\ALİ\\Desktop\\Staj Proje Stok Takip\\Yeni klasör (2)\\StockTrackingSystem\\EntityLayer\\EntityLayer.csproj": {
+              "projectPath": "C:\\Users\\ALİ\\Desktop\\Staj Proje Stok Takip\\Yeni klasör (2)\\StockTrackingSystem\\EntityLayer\\EntityLayer.csproj"
             }
           }
         }

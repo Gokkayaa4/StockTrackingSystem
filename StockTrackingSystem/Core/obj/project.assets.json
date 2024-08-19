@@ -566,11 +566,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ALİ\\Desktop\\Staj Proje Stok Takip\\Yeni klasör\\StockTrackingSystem\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\ALİ\\Desktop\\Staj Proje Stok Takip\\Yeni klasör (2)\\StockTrackingSystem\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\ALİ\\Desktop\\Staj Proje Stok Takip\\Yeni klasör\\StockTrackingSystem\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\ALİ\\Desktop\\Staj Proje Stok Takip\\Yeni klasör (2)\\StockTrackingSystem\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\ALİ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ALİ\\Desktop\\Staj Proje Stok Takip\\Yeni klasör\\StockTrackingSystem\\Core\\obj\\",
+      "outputPath": "C:\\Users\\ALİ\\Desktop\\Staj Proje Stok Takip\\Yeni klasör (2)\\StockTrackingSystem\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ALİ\\AppData\\Roaming\\NuGet\\NuGet.Config",

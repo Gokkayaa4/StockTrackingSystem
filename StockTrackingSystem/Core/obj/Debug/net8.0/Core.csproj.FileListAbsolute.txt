@@ -22,3 +22,16 @@ C:\Users\Hamza\Source\Repos\StockTrackingSystem\StockTrackingSystem\Core\obj\Deb
 C:\Users\Hamza\Source\Repos\StockTrackingSystem\StockTrackingSystem\Core\obj\Debug\net8.0\refint\Core.dll
 C:\Users\Hamza\Source\Repos\StockTrackingSystem\StockTrackingSystem\Core\obj\Debug\net8.0\Core.pdb
 C:\Users\Hamza\Source\Repos\StockTrackingSystem\StockTrackingSystem\Core\obj\Debug\net8.0\ref\Core.dll
+C:\Users\ALİ\Desktop\Staj Proje Stok Takip\Yeni klasör (2)\StockTrackingSystem\Core\bin\Debug\net8.0\Core.deps.json
+C:\Users\ALİ\Desktop\Staj Proje Stok Takip\Yeni klasör (2)\StockTrackingSystem\Core\bin\Debug\net8.0\Core.dll
+C:\Users\ALİ\Desktop\Staj Proje Stok Takip\Yeni klasör (2)\StockTrackingSystem\Core\bin\Debug\net8.0\Core.pdb
+C:\Users\ALİ\Desktop\Staj Proje Stok Takip\Yeni klasör (2)\StockTrackingSystem\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+C:\Users\ALİ\Desktop\Staj Proje Stok Takip\Yeni klasör (2)\StockTrackingSystem\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALİ\Desktop\Staj Proje Stok Takip\Yeni klasör (2)\StockTrackingSystem\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\ALİ\Desktop\Staj Proje Stok Takip\Yeni klasör (2)\StockTrackingSystem\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\ALİ\Desktop\Staj Proje Stok Takip\Yeni klasör (2)\StockTrackingSystem\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\ALİ\Desktop\Staj Proje Stok Takip\Yeni klasör (2)\StockTrackingSystem\Core\obj\Debug\net8.0\Core.sourcelink.json
+C:\Users\ALİ\Desktop\Staj Proje Stok Takip\Yeni klasör (2)\StockTrackingSystem\Core\obj\Debug\net8.0\Core.dll
+C:\Users\ALİ\Desktop\Staj Proje Stok Takip\Yeni klasör (2)\StockTrackingSystem\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Users\ALİ\Desktop\Staj Proje Stok Takip\Yeni klasör (2)\StockTrackingSystem\Core\obj\Debug\net8.0\Core.pdb
+C:\Users\ALİ\Desktop\Staj Proje Stok Takip\Yeni klasör (2)\StockTrackingSystem\Core\obj\Debug\net8.0\ref\Core.dll

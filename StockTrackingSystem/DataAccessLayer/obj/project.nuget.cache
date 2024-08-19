@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C0wNLcB6Nq4wCNEV0H+6O5lZQSnCwU5wCa9zrRcTsJf8MjIgTkM4jocIBCcJlkgKH3IHxTl8e8l3Fo9v2HyLag==",
+  "dgSpecHash": "uy6JF3ct1VREw8RmbZD+isc753FxXvy8S6P0heeM3Ba43DYfxnM2iPdk8lukg7FzPbXgxUbDr1cNJD4weaZtgg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ALİ\\Desktop\\Staj Proje Stok Takip\\Yeni klasör\\StockTrackingSystem\\DataAccessLayer\\DataAccessLayer.csproj",
+  "projectFilePath": "C:\\Users\\ALİ\\Desktop\\Staj Proje Stok Takip\\Yeni klasör (2)\\StockTrackingSystem\\DataAccessLayer\\DataAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ALİ\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ALİ\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
