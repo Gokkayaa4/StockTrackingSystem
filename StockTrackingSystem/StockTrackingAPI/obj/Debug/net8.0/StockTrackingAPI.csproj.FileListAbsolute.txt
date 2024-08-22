@@ -520,3 +520,6 @@ C:\Users\Hamza\Source\Repos\StockTrackingSystem\StockTrackingSystem\StockTrackin
 C:\Users\Hamza\Source\Repos\StockTrackingSystem\StockTrackingSystem\StockTrackingAPI\obj\Debug\net8.0\StockTra.12A2A0A6.Up2Date
 C:\Users\Hamza\Source\Repos\StockTrackingSystem\StockTrackingSystem\StockTrackingAPI\obj\Debug\net8.0\StockTrackingAPI.genruntimeconfig.cache
 C:\Users\Hamza\Source\Repos\StockTrackingSystem\StockTrackingSystem\StockTrackingAPI\obj\Debug\net8.0\ref\StockTrackingAPI.dll
+C:\Users\Hamza\source\repos\StockTrackingSystem\StockTrackingSystem\StockTrackingAPI\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Hamza\source\repos\StockTrackingSystem\StockTrackingSystem\StockTrackingAPI\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\Hamza\source\repos\StockTrackingSystem\StockTrackingSystem\StockTrackingAPI\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll

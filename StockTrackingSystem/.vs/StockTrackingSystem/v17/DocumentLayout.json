@@ -1,10 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\AL\u0130\\Desktop\\Staj Proje Stok Takip\\Yeni klas\u00F6r\\StockTrackingSystem\\",
+  "WorkspaceRootPath": "C:\\Users\\Hamza\\source\\repos\\StockTrackingSystem\\StockTrackingSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F1FD92BF-7F1F-41AE-B62D-D83AC415B983}|StockTrackingAPI\\StockTrackingAPI.csproj|c:\\users\\al\u0130\\desktop\\staj proje stok takip\\yeni klas\u00F6r\\stocktrackingsystem\\stocktrackingapi\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AE44B9A9-64F9-4AC3-8B7D-4725DEA85813}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hamza\\source\\repos\\stocktrackingsystem\\stocktrackingsystem\\dataaccesslayer\\concrete\\entityframework\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE44B9A9-64F9-4AC3-8B7D-4725DEA85813}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\concrete\\entityframework\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FD92BF-7F1F-41AE-B62D-D83AC415B983}|StockTrackingAPI\\StockTrackingAPI.csproj|c:\\users\\hamza\\source\\repos\\stocktrackingsystem\\stocktrackingsystem\\stocktrackingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F1FD92BF-7F1F-41AE-B62D-D83AC415B983}|StockTrackingAPI\\StockTrackingAPI.csproj|solutionrelative:stocktrackingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FD92BF-7F1F-41AE-B62D-D83AC415B983}|StockTrackingAPI\\StockTrackingAPI.csproj|c:\\users\\hamza\\source\\repos\\stocktrackingsystem\\stocktrackingsystem\\stocktrackingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FD92BF-7F1F-41AE-B62D-D83AC415B983}|StockTrackingAPI\\StockTrackingAPI.csproj|solutionrelative:stocktrackingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FD92BF-7F1F-41AE-B62D-D83AC415B983}|StockTrackingAPI\\StockTrackingAPI.csproj|c:\\users\\hamza\\source\\repos\\stocktrackingsystem\\stocktrackingsystem\\stocktrackingapi\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1FD92BF-7F1F-41AE-B62D-D83AC415B983}|StockTrackingAPI\\StockTrackingAPI.csproj|solutionrelative:stocktrackingapi\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCE8B43-CECF-4947-997C-E974E8ECB45C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\hamza\\source\\repos\\stocktrackingsystem\\stocktrackingsystem\\businesslayer\\concrete\\stockmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCE8B43-CECF-4947-997C-E974E8ECB45C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\concrete\\stockmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,33 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StockController.cs",
-              "DocumentMoniker": "C:\\Users\\AL\u0130\\Desktop\\Staj Proje Stok Takip\\Yeni klas\u00F6r\\StockTrackingSystem\\StockTrackingAPI\\Controllers\\StockController.cs",
-              "RelativeDocumentMoniker": "StockTrackingAPI\\Controllers\\StockController.cs",
-              "ToolTip": "C:\\Users\\AL\u0130\\Desktop\\Staj Proje Stok Takip\\Yeni klas\u00F6r\\StockTrackingSystem\\StockTrackingAPI\\Controllers\\StockController.cs",
-              "RelativeToolTip": "StockTrackingAPI\\Controllers\\StockController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T13:01:37.794Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -52,6 +43,77 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\StockTrackingSystem\\StockTrackingSystem\\StockTrackingAPI\\Program.cs",
+              "RelativeDocumentMoniker": "StockTrackingAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\StockTrackingSystem\\StockTrackingSystem\\StockTrackingAPI\\Program.cs",
+              "RelativeToolTip": "StockTrackingAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T14:20:17.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\StockTrackingSystem\\StockTrackingSystem\\StockTrackingAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "StockTrackingAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\StockTrackingSystem\\StockTrackingSystem\\StockTrackingAPI\\appsettings.json",
+              "RelativeToolTip": "StockTrackingAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-20T13:39:58.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\StockTrackingSystem\\StockTrackingSystem\\DataAccessLayer\\Concrete\\EntityFramework\\Context.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Concrete\\EntityFramework\\Context.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\StockTrackingSystem\\StockTrackingSystem\\DataAccessLayer\\Concrete\\EntityFramework\\Context.cs",
+              "RelativeToolTip": "DataAccessLayer\\Concrete\\EntityFramework\\Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T13:39:28.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StockController.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\StockTrackingSystem\\StockTrackingSystem\\StockTrackingAPI\\Controllers\\StockController.cs",
+              "RelativeDocumentMoniker": "StockTrackingAPI\\Controllers\\StockController.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\StockTrackingSystem\\StockTrackingSystem\\StockTrackingAPI\\Controllers\\StockController.cs",
+              "RelativeToolTip": "StockTrackingAPI\\Controllers\\StockController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T08:51:22.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StockManager.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\StockTrackingSystem\\StockTrackingSystem\\BusinessLayer\\Concrete\\StockManager.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Concrete\\StockManager.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\StockTrackingSystem\\StockTrackingSystem\\BusinessLayer\\Concrete\\StockManager.cs",
+              "RelativeToolTip": "BusinessLayer\\Concrete\\StockManager.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwAUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T08:51:05.481Z"
             }
           ]
         }
